@@ -5,7 +5,7 @@
 - Connect to Ubuntu VM via terminal
 - Create a folder where we can implement **`#!bin/bash`**
 - Add the following commands into **`#!bin/bash`**
-        ```
+    ```
         #!/bin/bash
         apt update -y
         apt install docker.io -y
@@ -25,4 +25,4 @@
         minikube start 
         kubectl api-versions
         apt-get install awscli
-        ```
+    ```
