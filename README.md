@@ -3,8 +3,8 @@
 # <h3>Installing some tools (_Docker, Git, Tree, Terraform, Kubernetes CLI, AWS CLI_) onto Ubuntu VM</h3>
 
 - Connect to Ubuntu VM via terminal
-- Create a folder where we can implement **`#!bin/bash`**
-- Add the following commands into **`#!bin/bash`**
+- Create a folder where we can implement bash script - **`#!bin/bash`**
+- Add the following commands into bash script - **`#!bin/bash`**
     ```
         #!/bin/bash
         apt update -y
