@@ -26,3 +26,12 @@
         kubectl api-versions
         apt-get install awscli
     ```
+- Verify the tools installed successfully with following commands
+    ```
+        docker --version
+        git --version
+        snap info tree
+        terraform -version
+        kubectl version --short
+        aws --version
+    ```
