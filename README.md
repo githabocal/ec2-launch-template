@@ -61,3 +61,7 @@
   - Select desired capacity
   - if needed, head to security groups and edit inbound rules for SSH(22) and HTTP(80)
     
+<img width="1792" alt="Screen Shot 2022-10-06 at 5 19 37 AM" src="https://user-images.githubusercontent.com/86754468/194423866-82c97ea9-317c-47b5-a8d6-afed1b03fc23.png">
+
+
+<img width="1359" alt="Screen Shot 2022-10-06 at 5 22 25 AM" src="https://user-images.githubusercontent.com/86754468/194423885-94c3a758-536d-4e64-9900-484557aa5ec9.png">
