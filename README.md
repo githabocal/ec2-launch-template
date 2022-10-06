@@ -64,6 +64,8 @@
 - Set up Auto Scaling Groups
   - Select desired capacity
   - if needed, head to security groups and edit inbound rules for SSH(22) and HTTP(80)
+
+- Then head to the created the ec2 instance and open the address for Public IPv4 address
     
 <img width="1792" alt="Screen Shot 2022-10-06 at 5 19 37 AM" src="https://user-images.githubusercontent.com/86754468/194423866-82c97ea9-317c-47b5-a8d6-afed1b03fc23.png">
 
