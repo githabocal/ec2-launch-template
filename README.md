@@ -58,4 +58,6 @@
             service nginx start
         ```
 - Set up Auto Scaling Groups
+  - Select desired capacity
+  - if needed, head to security groups adit inbound rules for SSH(22) and HTTP(80)
     
