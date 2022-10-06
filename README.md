@@ -1,6 +1,6 @@
 # ec2 instance - launch-template
 
-# <h3>Installing some tools onto Ubuntu VM</h3>
+# <h3>Installing some tools (Docker, Git, Tree, Terraform, Kubernetes CLI, AWS CLI) onto Ubuntu VM</h3>
 
 - Connect to Ubuntu VM via terminal
 - Create a folder where we can implement **`#!bin/bash`**
