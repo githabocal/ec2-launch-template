@@ -35,3 +35,7 @@
         kubectl version --short
         aws --version
     ```
+    
+    ![Screen Shot 2022-10-06 at 6 59 01 AM](https://user-images.githubusercontent.com/86754468/194418071-b9d9563b-2caf-4013-aabd-069fd3a5b440.png)
+
+    
