@@ -38,4 +38,24 @@
     
     ![Screen Shot 2022-10-06 at 6 59 01 AM](https://user-images.githubusercontent.com/86754468/194418071-b9d9563b-2caf-4013-aabd-069fd3a5b440.png)
 
+
+# <h3>Web Application Setup - Arcana html5</h3>
+
+- Create a launch template with as follows;
+    - Select Ubuntu as Amazon Machine image
+    - Select t2.micro as instance type
+    - Create Key pair
+    - Network Settings
+    - Update storage(volumes) if needed
+    - In advanced details, user data must be implemented as follows;
+        ```
+            #!/bin/bash
+            apt update -y
+            apt install nginx -y
+            cd /var/www/html
+            git clone https://github.com/zce/html5up.git
+            cp -r html5up/arcana/* .
+            service nginx start
+        ```
+- Set up Auto Scaling Groups
     
