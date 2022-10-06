@@ -59,5 +59,5 @@
         ```
 - Set up Auto Scaling Groups
   - Select desired capacity
-  - if needed, head to security groups adit inbound rules for SSH(22) and HTTP(80)
+  - if needed, head to security groups and edit inbound rules for SSH(22) and HTTP(80)
     
